@@ -63,7 +63,7 @@ If you want to simulate Microsoft Graph API responses using Dev Proxy:
 │   ├── createConnection.ts
 │   ├── graphClient.ts
 │   └── loadContent.ts
-└── tsconfig.json (TypeScript configuration)
+└── tsconfig.json
 ```
 
 ### .devproxy/graph-connector-mocks.json
@@ -102,6 +102,6 @@ This file contains the Microsoft Graph SDK client instantiation code.
 
 This file contains the code to load content to import. The code is organized following the Extract-Transform-Load (ETL) principle.
 
-### tscconfig.json
+### tsconfig.json
 
 This file contains the TypeScript configuration for the project.
