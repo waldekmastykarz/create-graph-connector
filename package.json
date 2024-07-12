@@ -5,12 +5,21 @@
   "main": "index.js",
   "type": "module",
   "bin": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/waldekmastykarz/create-graph-connector.git"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/waldekmastykarz/create-graph-connector/issues"
+  },
+  "keywords": [
+    "Microsoft Graph connector",
+    "Microsoft Copilot for Microsoft 365",
+    "Microsoft 365",
+    "Microsoft Graph"
+  ],
+  "author": "Waldek Mastykarz",
+  "license": "MIT",
   "dependencies": {
     "debug": "^4.3.5",
     "fs-extra": "^11.2.0",
