@@ -1,5 +1,7 @@
 # Microsoft Graph connector project generator
 
+**Code moved to https://github.com/microsoft/m365advocacy-templates**
+
 Create a new [Microsoft Graph connector](https://learn.microsoft.com/graph/connecting-external-content-connectors-overview) project with a single command.
 
 Using Graph connectors you can import external data into Microsoft 365 and Microsoft Search. Ingested content is available to Microsoft Copilot for Microsoft 365, Microsoft Search and other Microsoft 365 services.
